@@ -1,4 +1,7 @@
 # EpicMaterialCalculator
+
+## This project is not complete and I rarely update it as I have made the exact same functionality in Python. (I'll upload that instead of this C# app later on.)
+
 An epic material calculator for Mir4, input all your resources from uncommon to rare, darksteel, copper and glittering powder and it will tell you how much copper, darksteel, glittering powder you are missing to turn all those materials to their epic counterparts.
 
 
